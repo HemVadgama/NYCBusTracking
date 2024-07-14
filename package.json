@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "gtfs-realtime-bindings": "^1.1.1",
+    "leaflet": "^1.9.4",
+    "leaflet-realtime": "^2.2.0",
+    "node-fetch": "^2.7.0",
+    "socket.io": "^4.7.5"
+  },
+  "name": "nycbustracking",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
